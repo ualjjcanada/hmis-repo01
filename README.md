@@ -7,3 +7,6 @@ This is my first change on GitHub
 * Two
   - three
   - four
+  
+## SECOND CHANGES
+from local folder (working directory)
